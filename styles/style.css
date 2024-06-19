@@ -17,21 +17,21 @@
 }
 
 main {
-    padding: 5%;
-    display: grid;
-    grid-template-columns: 65% 25%;
+    padding: 0 30%;
+
 }
-#about_me_box {
+.main_card {
     background-color: gray;
     
 }
 #about_me_text {
-    padding: 20px 50px;
+    /* padding: 20px 50px; */
     font-size: 20px;
     background-color: #0e91e9;
     height: 100px;
     width: 80%;
-    justify-content: center;
+    text-align: center;
+    margin: 0 10%;
 }
 
 #about_me_header {
@@ -40,5 +40,5 @@ main {
     font-size: 24px;
     background-color: aqua;
     text-align: center;
-    
+    margin: 0 10%;
 }
