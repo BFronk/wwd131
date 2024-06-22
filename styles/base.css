@@ -71,3 +71,7 @@ main {
     max-width: 40%;
     height: auto;
 }
+
+nav a:hover {
+    background-color: #0e91e9;
+}
