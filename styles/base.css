@@ -6,6 +6,16 @@
     background-color: #0ee9e9;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+}
+
 
 #header_links{
     display:flex;
