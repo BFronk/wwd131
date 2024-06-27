@@ -76,11 +76,13 @@ main {
 #Linkedin {
     margin-top: 10px
 }
-
+img {
+    justify-self: center;
+}
 #cheese_image {
     max-width: 90%;
 }
-#cheese_image2 {
+#coountry_image {
     max-width: 90%;
     border-radius: 10px;
     border: 1px solid;
@@ -99,5 +101,10 @@ nav a:hover {
     justify-items: center;
     height: 50px;
     background-color: #3b97d4;
+}
+
+footer {
+    text-align: center;
+    background-color: lightblue;
 }
 
